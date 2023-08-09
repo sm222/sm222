@@ -1,7 +1,7 @@
 #	Hi there 👋
 
 ##	working on minishell
-💻	*https://github.com/sm222/minishell*
+💻 *https://github.com/sm222/minishell*
 
 ##	other projets
 🔨	*https://github.com/sm222/C_tools*
