@@ -8,6 +8,8 @@
 
 ✅	*https://github.com/sm222/ls-tester.git*
 
+🗺	*https://github.com/sm222/so_long_map_maker.git*
+
 ##	already finished
 125%	📘	*https://github.com/sm222/libft.git*
 
