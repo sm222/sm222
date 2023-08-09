@@ -4,8 +4,8 @@
 	💻	*https://github.com/sm222/minishell*
 
 ##	other projets
-	🔨	*https://github.com/sm222/C_tools*
- 	✅	*https://github.com/sm222/ls-tester.git*
+🔨	*https://github.com/sm222/C_tools*
+✅	*https://github.com/sm222/ls-tester.git*
 
 ##	already finished
 125%	📘	*https://github.com/sm222/libft.git*
