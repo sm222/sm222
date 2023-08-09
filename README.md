@@ -1,7 +1,7 @@
 ####	Hi there 👋
 
 ##	working on minishell
-	💻	*https://github.com/sm222/minishell*
+	💻	https://github.com/sm222/minishell
 
 ##	already finished
  125%	📘	*https://github.com/sm222/libft.git*
