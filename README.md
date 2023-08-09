@@ -1,16 +1,16 @@
 ####	Hi there 👋
 
-##	working on minishell
+##	working on minishell \n
 	💻	*https://github.com/sm222/minishell*
 
-##	already finished
- 125%	📘	*https://github.com/sm222/libft.git*
- 125%	📝	*https://github.com/sm222/get_next_line.git*
- 100%	💬	*https://github.com/sm222/ft_printf.git*
- 119%	🎮	*https://github.com/sm222/so_long.git* (need update)
- 125%	🕳 	*https://github.com/sm222/pipex*
-  96%	➕	*https://github.com/sm222/push_swap*
- 100%	🍝	*https://github.com/sm222/philo.git*
+##	already finished\n
+ 125%	📘	*https://github.com/sm222/libft.git*\n
+ 125%	📝	*https://github.com/sm222/get_next_line.git*\n
+ 100%	💬	*https://github.com/sm222/ft_printf.git*\n
+ 119%	🎮	*https://github.com/sm222/so_long.git* (need update)\n
+ 125%	🕳 	*https://github.com/sm222/pipex*\n
+  96%	➕	*https://github.com/sm222/push_swap*\n
+ 100%	🍝	*https://github.com/sm222/philo.git*\n
 
 
 <!--
