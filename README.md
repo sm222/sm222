@@ -1,7 +1,8 @@
 #	Hi there 👋
 
-##	working on minishell
-💻 *https://github.com/sm222/minishell*
+##	working on Cub3D and cpp 00 to 04
+ 3️⃣D *https://github.com/sm222/Cube3D*
+ C➕➕*https://github.com/sm222/cpp00to04*
 
 ##	other projets
 🔨	*https://github.com/sm222/C_tools*
@@ -11,6 +12,8 @@
 🗺	*https://github.com/sm222/so_long_map_maker.git*
 
 ##	already finished
+101% 💻 *https://github.com/sm222/minishell* ⭐⭐⭐
+
 125%	📘	*https://github.com/sm222/libft.git*
 
 125%	📝	*https://github.com/sm222/get_next_line.git*
