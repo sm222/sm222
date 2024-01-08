@@ -1,6 +1,6 @@
 #	Hi there 👋
 
-##	working on Cub3D and cpp 00 to 04
+##	working on Cub3D
 
  3️⃣D *https://github.com/sm222/Cube3D*
 
