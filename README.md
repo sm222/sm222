@@ -1,9 +1,8 @@
 #	Hi there 👋
 
 ##	working on Cub3D and cpp 00 to 04
- 3️⃣D *https://github.com/sm222/Cube3D*
 
- C➕➕*https://github.com/sm222/cpp00to04*
+ 3️⃣D *https://github.com/sm222/Cube3D*
 
 ##	other projets
 🔨	*https://github.com/sm222/C_tools*
@@ -29,6 +28,7 @@
 
 100%	🍝	*https://github.com/sm222/philo.git*
 
+ C➕➕*https://github.com/sm222/cpp00to04*
  
 
 
