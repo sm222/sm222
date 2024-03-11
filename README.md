@@ -1,7 +1,8 @@
 #	Hi there 👋
 
-##	working on CPP09
-C➕➕ *https://github.com/sm222/Cpp05to09*
+##	working on irc
+   *https://github.com/sm222/42_irc*
+ 
 ##	other projets
 🔨	*https://github.com/sm222/C_tools*
 
@@ -28,6 +29,8 @@ C➕➕ *https://github.com/sm222/Cpp05to09*
 
  C➕➕*https://github.com/sm222/cpp00to04*
 
+ C➕➕ *https://github.com/sm222/Cpp05to09*
+ 
 105% 3️⃣D *https://github.com/sm222/Cube3D*
 
  
