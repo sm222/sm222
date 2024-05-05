@@ -1,7 +1,7 @@
 #	Hi there 👋
 
-##	working on irc
-   *https://github.com/sm222/42_irc*
+##	working on Inception
+🛏    *https://github.com/sm222/42Inception*
  
 ##	other projets
 🔨	*https://github.com/sm222/C_tools*
@@ -9,6 +9,8 @@
 ✅	*https://github.com/sm222/ls-tester.git*
 
 🗺	*https://github.com/sm222/so_long_map_maker.git*
+
+🎛🕹 *https://github.com/sm222/2DGameMaker*  
 
 ##	already finished
 101% 💻 *https://github.com/sm222/minishell* ⭐⭐⭐
@@ -23,15 +25,18 @@
 
 125%	🕳 	*https://github.com/sm222/pipex*
 
- 96%	➕	*https://github.com/sm222/push_swap*
+ 96% ➕  *https://github.com/sm222/push_swap*
 
 100%	🍝	*https://github.com/sm222/philo.git*
 
- C➕➕*https://github.com/sm222/cpp00to04*
+ C➕➕   *https://github.com/sm222/cpp00to04*
 
- C➕➕ *https://github.com/sm222/Cpp05to09*
+ C➕➕   *https://github.com/sm222/Cpp05to09*
  
 105% 3️⃣D *https://github.com/sm222/Cube3D*
+
+100% 🔤📡 *https://github.com/sm222/42_irc*
+
 
  
 
