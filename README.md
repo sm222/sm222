@@ -1,8 +1,5 @@
 #	Hi there 👋
 
-##	working on Inception
-🛏    *https://github.com/sm222/42Inception*
- 
 ##	other projets
 🔨	*https://github.com/sm222/C_tools*
 
