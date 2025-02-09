@@ -1,47 +1,31 @@
 #	Hi there 👋
 
-##	other projets
-🔨	*https://github.com/sm222/C_tools*
+##	working on
+ 🔨 [C_tools](https://github.com/sm222/C_tools) tool for debugging c code at run time
 
-✅	*https://github.com/sm222/ls-tester.git*
+🎛🕹 [2DGameMaker](https://github.com/sm222/2DGameMaker) project on pause  
 
-🗺	*https://github.com/sm222/so_long_map_maker.git*
+🎛🕹 [IceFactory](https://github.com/sm222/IceFactory) 3D game engine
 
-🎛🕹 *https://github.com/sm222/2DGameMaker*  
+##	my favorit project from 42
 
-##	already finished
-101% 💻 *https://github.com/sm222/minishell* ⭐⭐⭐
+125%	📘	[Libft](https://github.com/sm222/libft.git) small library
 
-125%	📘	*https://github.com/sm222/libft.git*
+125%	📝	[Get next line](https://github.com/sm222/get_next_line.git) use to read a file line by line
 
-125%	📝	*https://github.com/sm222/get_next_line.git*
+125%`|`	[Pipex](https://github.com/sm222/pipex) simulate the pipe  in a shell
 
-100%	💬	*https://github.com/sm222/ft_printf.git*
+101% 💻 [Minishell](https://github.com/sm222/minishell) a minimalist shell made in c
 
-119%	🎮	*https://github.com/sm222/so_long.git* (need update)
+100%	🍝	[Philo](https://github.com/sm222/philo.git) learn how to work with thread in c
 
-125%	🕳 	*https://github.com/sm222/pipex*
+105% 📷 [Cube 3D](https://github.com/sm222/Cube3D) example how a game like the original doom render 
 
- 96% ➕  *https://github.com/sm222/push_swap*
+### love working in
 
-100%	🍝	*https://github.com/sm222/philo.git*
-
- C➕➕   *https://github.com/sm222/cpp00to04*
-
- C➕➕   *https://github.com/sm222/Cpp05to09*
- 
-105% 3️⃣D *https://github.com/sm222/Cube3D*
-
-100% 🔤📡 *https://github.com/sm222/42_irc*
-
-
-```c
-#include <unistd.h>
-int main(void) {
-  write(1, "Hello World\n", 12);
-  return 0;
-}
-```
+#### C
+#### C++
+#### Bash scrips
 
 
 <!--
