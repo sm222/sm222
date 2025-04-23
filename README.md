@@ -1,13 +1,13 @@
 #	Hi there 👋
 
-##	working on
+##	currently working on
  🔨 [C_tools](https://github.com/sm222/C_tools) tool for debugging c code at run time
 
 🎛🕹 [2DGameMaker](https://github.com/sm222/2DGameMaker) project on pause  
 
 🎛🕹 [IceFactory](https://github.com/sm222/IceFactory) 3D game engine
 
-##	my favorit project from 42
+##	my favourite projects from 42
 
 125%	📘	[Libft](https://github.com/sm222/libft.git) small library
 
